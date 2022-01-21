@@ -1,0 +1,11 @@
+{
+  "domain": "manifestor",
+  "name": "Manifestor",
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "",
+  "issue_tracker": "",
+  "codeowners": ["@leahoswald"],
+  "version": "1.0.0"
+}
+
